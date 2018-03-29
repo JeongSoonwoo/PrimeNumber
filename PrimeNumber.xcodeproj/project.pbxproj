@@ -54,8 +54,8 @@
 		1346858C206CBF1000D31D69 /* PrimeNumber */ = {
 			isa = PBXGroup;
 			children = (
-				1346858D206CBF1000D31D69 /* AppDelegate.swift */,
 				1346858F206CBF1000D31D69 /* ViewController.swift */,
+				1346858D206CBF1000D31D69 /* AppDelegate.swift */,
 				13468591206CBF1000D31D69 /* Main.storyboard */,
 				13468594206CBF1000D31D69 /* Assets.xcassets */,
 				13468596206CBF1000D31D69 /* LaunchScreen.storyboard */,
